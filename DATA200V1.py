@@ -24,4 +24,3 @@ elif sel=='Width':
     plt.title('Petal WIDTH of Flowers')
     plt.bar(df1['name'],df1['petal_width'])
     st.pyplot(sf)
-st.pyplot(sf)
