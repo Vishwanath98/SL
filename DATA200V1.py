@@ -28,4 +28,4 @@ st.pyplot(sf)
 
 
 plt.scatter(df1['petal_width'],df1['petal_length'])
-st.pyplot()"""
+st.pyplot()
