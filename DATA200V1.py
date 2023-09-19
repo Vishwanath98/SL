@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -26,11 +24,6 @@ elif sel=='Width':
     plt.title('Petal WIDTH of Flowers')
     plt.bar(df1['name'],df1['petal_width'])
     st.pyplot(sf)
-
-"""sf1=plt.subplot()
-sf=plt.figure()
-plt.bar(df1['name'],df1['petal_length'])
-#st.bar_chart(d)
 st.pyplot(sf)
 
 
