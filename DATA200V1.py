@@ -36,16 +36,3 @@ st.pyplot(sf)
 
 plt.scatter(df1['petal_width'],df1['petal_length'])
 st.pyplot()"""
-
-# 
-
-# In[ ]:
-
-
-
-
-"""plt.figure()
-plt.ylabel('length of flower')
-plt.xlabel('name')
-#data=[df1['name'],df1['petal_length']]
-plt.bar(df1['name'],df1['petal_length'])"""
