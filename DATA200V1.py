@@ -15,6 +15,7 @@ if sel=='Height':
     sf=plt.figure()
     plt.xlabel('Flower Name')
     plt.ylabel('Petal Length')
+    plt.title('Petal LENGTH of Flowers')
     plt.bar(df1['name'],df1['petal_length'],color='green')
     st.pyplot(sf)
     
@@ -22,6 +23,7 @@ elif sel=='Width':
     sf=plt.figure()
     plt.xlabel('Flower Name')
     plt.ylabel('Petal Width')
+    plt.title('Petal WIDTH of Flowers')
     plt.bar(df1['name'],df1['petal_width'])
     st.pyplot(sf)
 
