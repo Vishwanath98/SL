@@ -10,9 +10,8 @@ df1=pd.read_csv('mountain_flowers.csv')
 sel = st.radio("Select Petal height or Width",["Height","Width"])
 sf=plt.figure()
 plt.xlabel('Flower Name')
+
 if sel=='Height':
-    #sf=plt.figure()
-    #plt.xlabel('Flower Name')
     plt.ylabel('Petal Length')
     plt.title('Petal LENGTH of Flowers')
     plt.bar(df1['name'],df1['petal_length'],color='green')
@@ -20,8 +19,6 @@ if sel=='Height':
     st.subheader('Bluebells are ~30% smaller than Colorado Lotus')
     
 elif sel=='Width':
-    #sf=plt.figure()
-    #plt.xlabel('Flower Name')
     plt.ylabel('Petal Width')
     plt.title('Petal WIDTH of Flowers')
     plt.bar(df1['name'],df1['petal_width'])
