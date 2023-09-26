@@ -25,4 +25,4 @@ elif sel=='Width':
     plt.title('Petal WIDTH of Flowers')
     plt.bar(df1['name'],df1['petal_width'])
     st.pyplot(sf)
-    st.title('Colorado Lotus is 3x wider than violets')
+    st.subheader('Colorado Lotus is 3x wider than violets')
