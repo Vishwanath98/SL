@@ -16,7 +16,7 @@ if sel=='Height':
     plt.title('Petal LENGTH of Flowers')
     plt.bar(df1['name'],df1['petal_length'],color='green')
     st.pyplot(sf)
-    print('Colorado Lotus is 3 wider than violets')
+    st.write('Colorado Lotus is 3 wider than violets')
     
 elif sel=='Width':
     sf=plt.figure()
@@ -25,4 +25,4 @@ elif sel=='Width':
     plt.title('Petal WIDTH of Flowers')
     plt.bar(df1['name'],df1['petal_width'])
     st.pyplot(sf)
-    print('Bluebells are 30% smaller than Colorado Lotus')
+    st.write('Bluebells are 30% smaller than Colorado Lotus')
