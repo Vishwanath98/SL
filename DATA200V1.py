@@ -8,7 +8,7 @@ import streamlit as st
 
 df1=pd.read_csv('mountain_flowers.csv')
 sel = st.radio("Select Petal height or Width",["Height","Width"])
-print('Colorado Lotus is 3 wider than violets')
+print('Colorado Lotus is 3x wider than violets')
 if sel=='Height':
     sf=plt.figure()
     plt.xlabel('Flower Name')
