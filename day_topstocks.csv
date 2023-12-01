@@ -1,0 +1,61 @@
+,ticker,price,change_amount,change_percentage,volume,category,logo
+0,RDHL,1.0,0.6845,216.9572,190352444,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/RDHL.png
+1,PERF+,0.11,0.075,214.2857,126581,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/PERF+.png
+2,HNRA+,0.0989,0.0622,169.4823,102459,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/HNRA+.png
+3,VIEWW,0.0053,0.0027,103.8462,419097,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/VIEWW.png
+4,HYZNW,0.0395,0.0193,95.5446,6108,Top Gainers,
+5,BDRX,5.11,2.435,91.028,32919234,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+6,ASST,0.6611,0.3111,88.8857,55500302,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/ASST.png
+7,LEXXW,0.55,0.25,83.3333,124318,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/LEXXW.png
+8,SST+,0.0982,0.0446,83.209,370776,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SST+.png
+9,SHOTW,1.34,0.59,78.6667,64656,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+10,BTCTW,0.0299,0.0131,77.9762,10,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+11,LIVBW,0.0222,0.0097,77.6,14012,Top Gainers,
+12,NOTE+,0.5199,0.2249,76.2373,178867,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/NOTE+.png
+13,CAPT,4.09,1.75,74.7863,22425128,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+14,NRSNW,0.3,0.12,66.6667,40435,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/NRSNW.png
+15,BCSAW,0.0365,0.0144,65.1584,375,Top Gainers,
+16,EFTRW,0.15,0.059,64.8352,1069,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/EFTRW.png
+17,JSPRW,0.0789,0.0299,61.0204,29171,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/JSPRW.png
+18,RMCOW,0.04,0.0149,59.3625,4399,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+19,EDBLW,0.014,0.0052,59.0909,7873,Top Gainers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/EDBLW.png
+20,SMXWW,0.0044,-0.0116,-72.5,726168,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+21,AGBAW,0.009,-0.0209,-69.8997,31840,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/AGBAW.png
+22,GDNRW,0.0083,-0.0168,-66.9323,274953,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+23,LIBYW,0.01,-0.0199,-66.5552,30218,Top Losers,
+24,BFRIW,0.0103,-0.0197,-65.6667,571,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/BFRIW.png
+25,IPVF+,0.0106,-0.0186,-63.6986,164244,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/IPVF+.png
+26,FEXDW,0.01,-0.0175,-63.6364,544379,Top Losers,
+27,IGTAW,0.019,-0.0319,-62.6719,106725,Top Losers,
+28,BLUA+,0.01,-0.015,-60.0,806081,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/BLUA+.png
+29,NVACW,0.0105,-0.0145,-58.0,399215,Top Losers,
+30,INAQW,0.022,-0.0302,-57.8544,2641,Top Losers,
+31,LIFWZ,0.14,-0.1897,-57.5372,627,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/LIFWZ.png
+32,COEPW,0.03,-0.0376,-55.6213,17023,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+33,NVNIW,0.0313,-0.0387,-55.2857,531813,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+34,AACIW,0.0284,-0.0346,-54.9206,10403,Top Losers,
+35,SUAC+,0.014,-0.016,-53.3333,651655,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SUAC+.png
+36,DFLIW,0.0194,-0.0216,-52.6829,146450,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/DFLIW.png
+37,STRCW,0.0096,-0.0103,-51.7588,16460,Top Losers,
+38,XBIOW,4.44,-4.55,-50.6118,10,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/XBIOW.png
+39,OSAAW,0.03,-0.03,-50.0,3758,Top Losers,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/OSAAW.png
+40,RDHL,1.0,0.6845,216.9572,190352444,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/RDHL.png
+41,MCOM,0.0167,-0.0005,-2.907,186383592,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/placeholder.png
+42,TSLA,236.08,0.63,0.2676,111471273,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/TSLA.png
+43,SQQQ,15.93,0.03,0.1887,90476001,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SQQQ.png
+44,NKLA,0.9713,0.0046,0.4758,68397576,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/NKLA.png
+45,TQQQ,44.05,-0.13,-0.2943,60352485,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/TQQQ.png
+46,PLTR,19.075,-0.125,-0.651,56637615,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/PLTR.png
+47,ASST,0.6611,0.3111,88.8857,55500302,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/ASST.png
+48,AMZN,147.73,0.99,0.6747,52327673,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/AMZN.png
+49,SPY,454.51,-0.79,-0.1735,49522860,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SPY.png
+50,SOXS,8.405,0.045,0.5383,48502574,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SOXS.png
+51,AFRM,29.37,3.14,11.971,45106868,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/AFRM.png
+52,LU,0.8572,-0.0479,-5.2922,41953185,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/LU.png
+53,AAPL,189.79,-0.18,-0.0948,40366159,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/AAPL.png
+54,SOXL,22.945,-0.145,-0.628,40356928,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SOXL.png
+55,SOFI,7.03,0.17,2.4781,40119576,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/SOFI.png
+56,NVDA,482.42,4.66,0.9754,39354340,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/NVDA.png
+57,TELL,0.5,-0.0282,-5.3389,38236685,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/TELL.png
+58,TLT,91.3,1.5,1.6704,38131270,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/TLT.png
+59,MULN,0.1775,0.0025,1.4286,38018937,Most Actively Traded,https://storage.googleapis.com/iexcloud-hl37opg/api/logos/MULN.png
